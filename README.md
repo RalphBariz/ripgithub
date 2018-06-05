@@ -1,6 +1,6 @@
 # #RIPGitHub
 for my repos go to https://gitlab.com/RalphBariz
 
-Due to GitHub's decision to sleep over at the enemy of open and free software, namely Microsoft, I won't use this account for hosting my code any more. Yes Microsoft, you proved multiple times to be the pure evil, everything else than trustworthy. So as almost everywhere I can make that decision also here I decide to lock you out of my life.
+Due to GitHub's decision to sleep over at the enemy of open and free software, namely Microsoft, I won't use this account for hosting my code any more. Yes Microsoft, you have proven multiple times to be anything else but trustworthy.
 
-It was a beautiful time, but everything seems to have an end.
+It was a beautiful time with GitHub, but everything seems to have an end.
